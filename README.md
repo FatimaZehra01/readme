@@ -19,3 +19,5 @@ Flowers are often used in rituals, celebrations, and as symbols of love, friends
 
 ### Medicinal Uses:
 Many flowers have therapeutic properties and are used in traditional and modern medicine for their healing benefits.
+
+<img src="./image/flower.jpeg">
